@@ -30,6 +30,7 @@ Rainier Ababao - to be delivered 2/21/17
 - Local
 - Remote
 - Trivial example (toy personal project example)
+
 	```
 	git add .
 	git commit -m "Implemented search filter"
