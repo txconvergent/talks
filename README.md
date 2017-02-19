@@ -1,7 +1,9 @@
 # talks
-selected talk outlines by the folks at Convergent 😀
 
-i.e., we usually follow these accompanying _amazing_ slide decks vetted by aspiring management consultants 🙃 - may not make sense occasionally
+**about**
+
+- selected talk outlines by the folks at Convergent
+- we usually follow the outlines in this repository, which accompany _amazing_ slide decks vetted by aspiring management consultants, so they may occasionally make less sense when read out-of-context.
 
 **constraints**
 

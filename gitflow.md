@@ -26,6 +26,7 @@ Rainier Ababao - to be delivered 2/21/17
 
 **How does git work?**
 
+- slightly technical explanation of internals - it's a merkle tree
 - Local
 - Remote
 - Trivial example (toy personal project example)
