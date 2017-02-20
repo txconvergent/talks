@@ -12,12 +12,16 @@ Rainier Ababao - to be delivered 2/21/17
 
 **What is git?**
 
+- Linus Torvalds
 - Version control system created by the inventor of Linux intended to keep track of Linux development
+- Sets it apart from other VCSs including those at other shops is that it's distributed meaning you don't need a central server
 - Relevant to both CS and business students
 
 **What git is not?**
 
-- GitHub--that's just a website that hosts source code being kept track of by git. Users of GitHub upload git repositories up to GitHub
+- GitHub--that's a website that hosts source code being kept track of by git. Users of GitHub upload git repositories up to GitHub, and GitHub has a slick user interface that lets you review diffs, comment on code, and star/track/fork/clone repositories easily
+- GitHub's user experience has enabled millions of developers to start hacking on open source and build platform for portfolios
+- Comparison to the Texas Convergent Portal, **Enable**
 
 **What can you use git for?**
 
